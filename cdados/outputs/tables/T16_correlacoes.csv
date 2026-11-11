@@ -1,0 +1,17 @@
+﻿Desfecho;Variavel;N;Spearman_rho;p_valor;Magnitude;p_ajustado_BH
+Gasto total;Renda anual;2215;0,852457;0,0;grande;0,0
+Gasto total;Idade;2237;0,157982;0,0;pequeno;0,0
+Gasto total;Número de filhos;2240;-0,483832;0,0;médio;0,0
+Gasto total;Tempo de relacionamento;2240;0,184414;0,0;pequeno;0,0
+Gasto total;Total de compras;2240;0,908302;0,0;grande;0,0
+Gasto total;Compras com desconto;2240;-0,014822;0,4832;desprezível;0,4832
+Gasto total;Visitas ao site por mês;2240;-0,476343;0,0;médio;0,0
+Gasto total;Compras por catálogo;2240;0,891919;0,0;grande;0,0
+Gasto mensal;Renda anual;2213;0,814761;0,0;grande;0,0
+Gasto mensal;Idade;2235;0,175817;0,0;pequeno;0,0
+Gasto mensal;Número de filhos;2238;-0,422146;0,0;médio;0,0
+Gasto mensal;Tempo de relacionamento;2238;-0,306376;0,0;médio;0,0
+Gasto mensal;Total de compras;2238;0,793633;0,0;grande;0,0
+Gasto mensal;Compras com desconto;2238;-0,084812;5,9e-05;desprezível;6,3e-05
+Gasto mensal;Visitas ao site por mês;2238;-0,582935;0,0;grande;0,0
+Gasto mensal;Compras por catálogo;2238;0,778619;0,0;grande;0,0

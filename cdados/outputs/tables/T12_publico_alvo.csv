@@ -1,0 +1,30 @@
+﻿Dimensao;Categoria;N;N_alto_gasto;Taxa_alto_gasto;IC95_inf;IC95_sup;Perc_dos_altos;Lift
+Faixa de renda;Q1 (menor);443;1;0,23;0,04;1,27;0,18;0,01
+Faixa de renda;Q2;443;0;0,0;0,0;0,86;0,0;0,0
+Faixa de renda;Q3;443;30;6,77;4,78;9,5;5,36;0,27
+Faixa de renda;Q4;443;173;39,05;34,62;43,67;30,89;1,56
+Faixa de renda;Q5 (maior);443;352;79,46;75,45;82,96;62,86;3,18
+Faixa etária;18-29;221;66;29,86;24,22;36,2;11,79;1,19
+Faixa etária;30-39;557;118;21,18;17,99;24,77;21,07;0,85
+Faixa etária;40-49;676;148;21,89;18,94;25,16;26,43;0,88
+Faixa etária;50-59;467;128;27,41;23,56;31,63;22,86;1,1
+Faixa etária;60+;316;99;31,33;26,47;36,64;17,68;1,25
+Escolaridade;Básico;54;0;0,0;0,0;6,64;0,0;0,0
+Escolaridade;Graduação;1127;293;26,0;23,52;28,64;52,32;1,04
+Escolaridade;Ciclo 2;203;42;20,69;15,69;26,78;7,5;0,83
+Escolaridade;Mestrado;370;83;22,43;18,48;26,95;14,82;0,9
+Escolaridade;Doutorado;486;142;29,22;25,35;33,41;25,36;1,17
+Estado civil;Casado(a);864;201;23,26;20,57;26,2;35,89;0,93
+Estado civil;Divorciado(a);232;61;26,29;21,05;32,31;10,89;1,05
+Estado civil;Outros;4;2;50,0;15,0;85,0;0,36;2,0
+Estado civil;Solteiro(a);483;127;26,29;22,57;30,4;22,68;1,05
+Estado civil;União estável;580;142;24,48;21,16;28,14;25,36;0,98
+Estado civil;Viúvo(a);77;27;35,06;25,35;46,2;4,82;1,4
+Quantidade de filhos;Sem filhos;638;374;58,62;54,76;62,38;66,79;2,34
+Quantidade de filhos;1 filho;1128;165;14,63;12,69;16,81;29,46;0,59
+Quantidade de filhos;2 filhos;421;16;3,8;2,35;6,08;2,86;0,15
+Quantidade de filhos;3+ filhos;53;5;9,43;4,1;20,25;0,89;0,38
+Tempo de relacionamento;Q1 (mais recente);560;105;18,75;15,73;22,19;18,75;0,75
+Tempo de relacionamento;Q2;560;122;21,79;18,57;25,39;21,79;0,87
+Tempo de relacionamento;Q3;566;149;26,33;22,87;30,1;26,61;1,05
+Tempo de relacionamento;Q4 (mais antigo);554;184;33,21;29,42;37,24;32,86;1,33

@@ -1,0 +1,10 @@
+﻿Variavel;N_alto;Media_alto;Mediana_alto;N_demais;Media_demais;Mediana_demais;Diferenca_medias;Razao_medias;Razao_medianas
+Renda anual;556;75238,191;75295,5;1659;44171,675;42691,0;31066,516;1,703;1,764
+Idade (anos);559;45,987;45,0;1678;44,802;43,0;1,185;1,026;1,047
+Número de filhos;560;0,379;0,0;1680;1,141;1,0;-0,762;0,332;0,0
+Tempo de relacionamento (meses);560;13,049;13,848;1680;11,139;10,94;1,91;1,171;1,266
+Gasto total (u.m.);560;1490,475;1440,0;1680;310,906;160,5;1179,569;4,794;8,972
+Gasto mensal (u.m./mês);560;355,117;108,185;1678;116,029;19,588;239,088;3,061;5,523
+Total de compras (n);560;19,993;20,0;1680;10,052;7,0;9,941;1,989;2,857
+Compras com desconto (n);560;1,857;1,0;1680;2,481;2,0;-0,624;0,749;0,5
+Visitas ao site por mês (n);560;3,616;3,0;1680;5,883;6,0;-2,267;0,615;0,5

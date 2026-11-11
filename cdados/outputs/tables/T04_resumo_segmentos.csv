@@ -1,0 +1,4 @@
+﻿Grupo;N_clientes;Percentual_clientes;Limite_P75_GastoTotal;Gasto_acumulado;Participacao_gasto_total;Media_gasto;Mediana_gasto;Desvio_gasto;Media_gasto_mensal;Mediana_gasto_mensal
+Alto gasto;560;25,0;1045,5;834666;61,51;1490,48;1440,0;329,31;355,12;108,18
+Demais clientes;1680;75,0;1045,5;522322;38,49;310,91;160,5;315,47;116,03;19,59
+Total;2240;100,0;1045,5;1356988;100,0;605,8;396,0;602,25;175,85;37,5

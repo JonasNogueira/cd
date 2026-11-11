@@ -1,0 +1,21 @@
+﻿FaixaRenda;FaixaFilhos;N;N_alto;Taxa_alto_gasto;Lift
+Q1 (menor);Sem filhos;88;0;0,0;0,0
+Q1 (menor);1 filho;278;1;0,36;0,01
+Q1 (menor);2 filhos;71;0;0,0;0,0
+Q1 (menor);3+ filhos;6;0;0,0;0,0
+Q2;Sem filhos;39;0;0,0;0,0
+Q2;1 filho;235;0;0,0;0,0
+Q2;2 filhos;150;0;0,0;0,0
+Q2;3+ filhos;19;0;0,0;0,0
+Q3;Sem filhos;45;11;24,44;0,97
+Q3;1 filho;253;19;7,51;0,3
+Q3;2 filhos;130;0;0,0;0,0
+Q3;3+ filhos;15;0;0,0;0,0
+Q4;Sem filhos;135;88;65,19;2,6
+Q4;1 filho;254;77;30,31;1,21
+Q4;2 filhos;48;7;14,58;0,58
+Q4;3+ filhos;6;1;16,67;0,66
+Q5 (maior);Sem filhos;326;272;83,44;3,32
+Q5 (maior);1 filho;96;68;70,83;2,82
+Q5 (maior);2 filhos;17;9;52,94;2,11
+Q5 (maior);3+ filhos;4;3;75,0;2,99

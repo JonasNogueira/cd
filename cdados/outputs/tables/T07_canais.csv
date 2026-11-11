@@ -1,0 +1,7 @@
+﻿Canal;Grupo;N_clientes;Total_compras;Media_por_cliente;Mediana_por_cliente;Participacao_no_grupo;Perc_clientes_com_compra
+Web;Alto gasto;560;3139;5,61;5,0;28,04;99,11
+Web;Demais clientes;1680;6011;3,58;3,0;35,6;97,38
+Catálogo;Alto gasto;560;3309;5,91;6,0;29,56;99,82
+Catálogo;Demais clientes;1680;2654;1,58;1,0;15,72;65,18
+Loja física;Alto gasto;560;4748;8,48;9,0;42,41;99,46
+Loja física;Demais clientes;1680;8222;4,89;4,0;48,69;99,29

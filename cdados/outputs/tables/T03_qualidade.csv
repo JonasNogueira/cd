@@ -1,0 +1,14 @@
+﻿Problema;Variavel;Ocorrencias;Decisao;Percentual
+Registros duplicados (linhas completas);todas;0;"Nenhum; base mantida integralmente.";0,0
+Identificadores (ID) repetidos;ID;0;"Nenhum; ID é chave única (usado apenas como identificador).";0,0
+Renda ausente;Income;24;"Mantidos como ausentes; excluídos apenas das análises que usam renda.";1,07
+Renda implausível (>= 600.000);Income;1;"Convertida em ausente (erro de digitação provável); linha preservada.";0,04
+Idade implausível (> 100 anos);Year_Birth;3;"Idade tratada como ausente nesses casos; demais variáveis preservadas.";0,13
+Estado civil fora do padrão (Alone/Absurd/YOLO);Marital_Status;7;"Alone -> Solteiro(a); Absurd/YOLO -> Outros (4 casos), sem imputação inventada.";0,31
+Escolaridade fora do padrão;Education;0;"5 rótulos válidos (Basic, Graduation, 2n Cycle, Master, PhD); apenas traduzidos.";0,0
+Datas inválidas (Dt_Customer);Dt_Customer;0;"Nenhuma; conversão com formato explícito %d-%m-%Y.";0,0
+Valores negativos em atributos não negativos;numéricas;0;"Nenhum; nenhum ajuste necessário.";0,0
+Colunas constantes;Z_CostContact, Z_Revenue;2;Removidas: valor único (3 e 11), sem poder discriminante.;0,09
+Outliers univariados (regra 1,5 IQR) em renda;Income;8;"Mantidos: rendas altas são consumidores legítimos; a análise é descritiva.";0,36
+Outliers univariados (regra 1,5 IQR) em idade;Year_Birth;3;Mantidos (exceto os 3 impossíveis): idosos de 70-90 anos são plausíveis.;0,13
+Outliers univariados (regra 1,5 IQR) em GastoTotal;GastoTotal;3;Mantidos: representam comportamento de consumo excepcional, não erro.;0,13

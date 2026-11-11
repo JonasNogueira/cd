@@ -1,0 +1,7 @@
+﻿Variavel;Assimetria_alto;Assimetria_demais;Shapiro_p_alto;Shapiro_p_demais;Levene_p;Normalidade;Variancias
+Renda;1,190977;0,71911;0,0;0,0;0,0;Rejeitada em pelo menos um grupo;Desiguais
+Idade;-0,052402;0,141147;1e-06;0,0;6,2e-05;Rejeitada em pelo menos um grupo;Desiguais
+Gasto total;0,732029;0,918528;0,0;0,0;0,107043;Rejeitada em pelo menos um grupo;Homogêneas
+Gasto mensal;9,266278;22,466042;0,0;0,0;0,005253;Rejeitada em pelo menos um grupo;Desiguais
+Número de filhos;1,562486;0,293025;0,0;0,0;0,005138;Rejeitada em pelo menos um grupo;Desiguais
+Tempo de relacionamento;-0,252844;0,057369;0,0;0,0;0,581731;Rejeitada em pelo menos um grupo;Homogêneas

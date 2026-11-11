@@ -1,0 +1,5 @@
+﻿Modelo;Termo;Coeficiente;IC95_inf;IC95_sup;p_valor;R2;N
+M1: log(Gasto) ~ log(Renda);log_renda;2,2352;2,155;2,3154;0,0;0,5747;2212
+M2: + idade + filhos;log_renda;2,0133;1,9347;2,0919;0,0;0,643;2212
+M2: + idade + filhos;Idade;0,0051;0,0018;0,0084;0,0025;0,643;2212
+M2: + idade + filhos;TotalFilhos;-0,5397;-0,5912;-0,4883;0,0;0,643;2212

@@ -1,0 +1,30 @@
+﻿Variavel;Tipo_pandas;Tipo_analitico;Nao_nulos;Ausentes;N_unicos;Exemplo
+ID;int64;Identificadora;2240;0;2240;5524
+Year_Birth;int64;Numérica discreta;2240;0;59;1957
+Education;str;Categórica;2240;0;5;Graduation
+Marital_Status;str;Categórica;2240;0;8;Single
+Income;float64;Numérica discreta;2216;24;1974;58138.0
+Kidhome;int64;Numérica discreta;2240;0;3;0
+Teenhome;int64;Numérica discreta;2240;0;3;0
+Dt_Customer;str;Temporal;2240;0;663;04-09-2012
+Recency;int64;Numérica discreta;2240;0;100;58
+MntWines;int64;Numérica discreta;2240;0;776;635
+MntFruits;int64;Numérica discreta;2240;0;158;88
+MntMeatProducts;int64;Numérica discreta;2240;0;558;546
+MntFishProducts;int64;Numérica discreta;2240;0;182;172
+MntSweetProducts;int64;Numérica discreta;2240;0;177;88
+MntGoldProds;int64;Numérica discreta;2240;0;213;88
+NumDealsPurchases;int64;Numérica discreta;2240;0;15;3
+NumWebPurchases;int64;Numérica discreta;2240;0;15;8
+NumCatalogPurchases;int64;Numérica discreta;2240;0;14;10
+NumStorePurchases;int64;Numérica discreta;2240;0;14;4
+NumWebVisitsMonth;int64;Numérica discreta;2240;0;16;7
+AcceptedCmp3;int64;Binária;2240;0;2;0
+AcceptedCmp4;int64;Binária;2240;0;2;0
+AcceptedCmp5;int64;Binária;2240;0;2;0
+AcceptedCmp1;int64;Binária;2240;0;2;0
+AcceptedCmp2;int64;Binária;2240;0;2;0
+Complain;int64;Binária;2240;0;2;0
+Z_CostContact;int64;Constante;2240;0;1;3
+Z_Revenue;int64;Constante;2240;0;1;11
+Response;int64;Binária;2240;0;2;1

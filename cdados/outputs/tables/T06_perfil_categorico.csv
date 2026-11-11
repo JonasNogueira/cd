@@ -1,0 +1,16 @@
+﻿Dimensao;Categoria;N;Percentual_dentro_alto;Percentual_dentro_demais;Taxa_alto_gasto
+Escolaridade;Básico;54;0,0;3,21;0,0
+Escolaridade;Graduação;1127;52,32;49,64;26,0
+Escolaridade;Ciclo 2;203;7,5;9,58;20,69
+Escolaridade;Mestrado;370;14,82;17,08;22,43
+Escolaridade;Doutorado;486;25,36;20,48;29,22
+Estado civil;Casado(a);864;35,89;39,46;23,26
+Estado civil;Divorciado(a);232;10,89;10,18;26,29
+Estado civil;Outros;4;0,36;0,12;50,0
+Estado civil;Solteiro(a);483;22,68;21,19;26,29
+Estado civil;União estável;580;25,36;26,07;24,48
+Estado civil;Viúvo(a);77;4,82;2,98;35,06
+Quantidade de filhos;Sem filhos;638;66,79;15,71;58,62
+Quantidade de filhos;1 filho;1128;29,46;57,32;14,63
+Quantidade de filhos;2 filhos;421;2,86;24,11;3,8
+Quantidade de filhos;3+ filhos;53;0,89;2,86;9,43
